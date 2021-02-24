@@ -1,0 +1,12 @@
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\bin\Debug\netcoreapp3.1\Business.Abstraction.deps.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\bin\Debug\netcoreapp3.1\Business.Abstraction.runtimeconfig.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\bin\Debug\netcoreapp3.1\Business.Abstraction.runtimeconfig.dev.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\bin\Debug\netcoreapp3.1\Business.Abstraction.dll
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\bin\Debug\netcoreapp3.1\Business.Abstraction.pdb
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.csprojAssemblyReference.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.AssemblyInfoInputs.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.AssemblyInfo.cs
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.dll
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.pdb
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Business.Abstraction\obj\Debug\netcoreapp3.1\Business.Abstraction.genruntimeconfig.cache

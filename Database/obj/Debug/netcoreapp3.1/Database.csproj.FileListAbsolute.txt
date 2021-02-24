@@ -1,0 +1,12 @@
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.pdb
+C:\Users\OVATA\Desktop\Projects\AppointmentAPI\Database\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
